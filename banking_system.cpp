@@ -1,7 +1,7 @@
 /*
     ============================================
     MINI BANKING SYSTEM - C++ OOP Project
-    Made by: [Apna Naam Yahan Likho]
+    Made by: [Omkar Sharma]
     Course: BCA
     ============================================
 */
